@@ -7,11 +7,12 @@ ChartJS.register(Title, Tooltip, Legend, BarElement, CategoryScale, LinearScale)
 const chartData = {
   labels: [ 'Caxias do Sul', 'São Leopoldo', 'Canoas', 'Porto Alegre', 'Muçum' ],
   datasets: [{
+    label: 'Destino das Doações (%)',
     barPercentage: 5,
     barThickness: 30,        
     data: [30, 10, 25, 30, 15],
     backgroundColor: [
-    'rgba(255, 99, 132, 0.2)',
+    'rgba(105, 9, 132, 0.2)',
     'rgba(255, 159, 64, 0.2)',
     'rgba(255, 205, 86, 0.2)',
     'rgba(75, 192, 192, 0.2)',
