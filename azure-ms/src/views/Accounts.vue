@@ -38,6 +38,8 @@
       <Faqs />
     </v-row>
 
+    <iframe src="https://webchat.botframework.com/embed/projeto-final-bot?s=momiQjP0zU8.PKabSsszbu1ucf5o6AHBuhxwYf9SHyqHmFrsopCzHvc" />
+
     
 </template>
 
