@@ -38,7 +38,12 @@
       <Faqs />
     </v-row>
 
-    <iframe src="https://webchat.botframework.com/embed/projeto-final-bot?s=momiQjP0zU8.PKabSsszbu1ucf5o6AHBuhxwYf9SHyqHmFrsopCzHvc" />
+    <v-row>
+      <h3 class="pt-10 pl-10">Utilize nosso chatbot!</h3>
+      <v-col md="12" class="d-flex justify-center">
+        <iframe style="width:80%;height:530px;" src="https://webchat.botframework.com/embed/projeto-final-bot?s=momiQjP0zU8.PKabSsszbu1ucf5o6AHBuhxwYf9SHyqHmFrsopCzHvc" />
+      </v-col>
+    </v-row>
 
     
 </template>
