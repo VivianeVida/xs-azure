@@ -7,7 +7,6 @@ ChartJS.register(Title, Tooltip, Legend, BarElement, CategoryScale, LinearScale)
 const chartData = {
   labels: [ 'Caxias do Sul', 'São Leopoldo', 'Canoas', 'Porto Alegre', 'Muçum' ],
   datasets: [{
-    label: 'Destino das Doações (%)',
     barPercentage: 5,
     barThickness: 30,        
     data: [30, 10, 25, 30, 15],
